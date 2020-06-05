@@ -12,8 +12,8 @@ $ pip2 install requests
 
 $ pip install termcolor
 
-$ git clone https://github.com/reyspeed/attack-spam
+$ git clone https://github.com/mrbrutal46/SPAM-SMS
 
-$ cd attack-spam
+$ cd SPAM-SMS
 
 $ python att.py
